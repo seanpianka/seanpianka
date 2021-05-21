@@ -19,7 +19,7 @@ jobs:
           user: seanpianka
           template: classic
           base: header, activity, repositories, metadata
-          config_timezone: Europe/Berlin
+          config_timezone: America/New York
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_details: bytes-size,percentage
